@@ -19,7 +19,7 @@ self.addEventListener('install', function(event){
     event.waitUntil(
         caches.open(restaurant_cache)
             .then (function(cache){
-                return cache.allAll(urlsToCache);
+                return cache.addAll(urlsToCache);
             })
     );
 });
