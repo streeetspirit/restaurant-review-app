@@ -2,6 +2,7 @@
 Assignment #5 from Udacity Front-End Web Development Nanodegree.
 
 The purpose of this project is get to know how web applications work, modify current design to be responsive and accessible, and also add service worker and caching for offline view.
+
 ---
 
 ### Specification of tasks implemented
